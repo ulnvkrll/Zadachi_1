@@ -56,5 +56,7 @@ public class Main {
 
         System.out.println("Верно ли утверждение, что красных яблок больше - " + statement);
 
+        int d = 15;
+
     }
 }
